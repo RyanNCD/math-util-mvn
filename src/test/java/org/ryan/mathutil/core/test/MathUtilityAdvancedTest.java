@@ -24,7 +24,7 @@ public class MathUtilityAdvancedTest {
                                             {1, 1}, 
                                             {2, 2}, 
                                             {5, 120}, 
-                                            {6, 720}
+                                            {6, 7200}
                                             };
         
         return  testData;

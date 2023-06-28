@@ -1,0 +1,12 @@
+Lặp lại cho từng project khi bắt đầu đồng bộ lên server
+git init
+git add .
+git commit -m "first upload"
+
+git branch -M main
+git remote add origin https://github.com/RyanNCD/math-util-mvn.git
+git push -u origin main
+
+git add*
+git commit -m"li do sua code"
+git push
